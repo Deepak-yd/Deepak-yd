@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&width=900&lines=Cloud+Engineer;AWS+Certified+Cloud+Practitioner;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&width=900&lines=Cloud+Engineer & Full-Stack-Developer;AWS+Certified+Cloud+Practitioner;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Open+Source+Enthusiast"/>
 </p>
 
 ## ☁️ About Me
